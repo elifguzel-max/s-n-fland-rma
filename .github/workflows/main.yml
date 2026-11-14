@@ -20,4 +20,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Kodu çalıştır
-        run: python dosya_adin.py  # Buraya kendi .py dosyanın adını yaz
+        run: Yzt Proje 1.02.py  # Buraya kendi .py dosyanın adını yaz
